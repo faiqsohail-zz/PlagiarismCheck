@@ -1,10 +1,7 @@
 streamlit==1.38.0
-PyMuPDF==1.24.9
-fitz
+PyMuPDF==1.24.7
 scikit-learn==1.5.2
 numpy==1.26.4
-
-
 
 
 
